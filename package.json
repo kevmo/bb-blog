@@ -1,0 +1,17 @@
+{
+  "name": "kevmo-backbone-blog",
+  "description": "Bloggin'",
+  "version": "0.1.0",
+  "scripts": {
+    "startDev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.10.7",
+    "ejs": "~2.0.7",
+    "bourne": "~0.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
